@@ -1,2 +1,2 @@
-# Go-Tutorials-
+# Go-tutorial
 Go Tutorials 
